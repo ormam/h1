@@ -1,10 +1,7 @@
 [logstash]
 10.90.26.101
 
-[telegraf]
-10.90.24.159
-
-[filebeat]
+[agents]
 10.90.24.159
 
 [nginx]
