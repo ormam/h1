@@ -1,4 +1,4 @@
-ansible_user: LocalUsername
-ansible_password: Password
+ansible_user: qamedlab/tcsservice
+ansible_password: 
 ansible_connection: winrm
 ansible_winrm_transport: basic
